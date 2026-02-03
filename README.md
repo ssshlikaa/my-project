@@ -2,3 +2,6 @@
 "# Features" 
 "- Feature 1" 
 "- Feature 2" 
+"// Updated in new feature" 
+"## New Features" 
+"- Utility functions" 
